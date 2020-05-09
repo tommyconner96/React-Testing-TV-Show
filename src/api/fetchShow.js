@@ -9,3 +9,7 @@ import axios from "axios";
     };
 
 export default fetchShow
+
+    // .then(res => {
+    //   return res;
+    // })
